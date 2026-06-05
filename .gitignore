@@ -1,0 +1,4 @@
+.env
+venv/
+dashboard.zip
+src/__pycache__/
